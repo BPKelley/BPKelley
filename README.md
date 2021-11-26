@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben Kelley
-- 👀 I’m interested in way too many things! 
+- 👀 I’m interested in way too many things, haha
 - 🌱 I’m currently learning to not overcommit to new projects and then have to halfass of quit most of them later 
 - 💞️ I’m looking to collaborate on web3 projects (mostly as a lurker) 
 - 📫 How to reach me: Github DMs

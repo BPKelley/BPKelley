@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben Kelley!
-- 👀 I’m interested in way too many things, haha.
-- 🌱 I’m currently learning to not overcommit to new projects and then have to quit (or half-ass) most of them later .
-- 💞️ I'm mostly just lurking & learning. 
-- 📫 How to reach me: Github DM
+- 👀 I’m a product manager, parent, music theater musician, computer gamer, and many other things. 
+- 🌱 I’m currently learning AI, both from a theory perspective, and also more practically: how can it improve my *daily* workflows?
+- 💞️ I mostly just lurk and learn on Github. My actual code contributions have all been corporate closed-source.
+- 📫 How to reach me: linkedin.com/in/bpkelley

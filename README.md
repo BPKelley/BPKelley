@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben Kelley!
 - 👀 I’m a product manager, parent, music theater musician, computer gamer, and many other things. 
-- 🌱 I’m currently learning AI, both from a theory perspective, and also more practically: how can it improve my *daily* workflows?
-- 💞️ I mostly just lurk and learn on Github. My actual code contributions have all been corporate closed-source.
+- 🌱 I'm figuring out what it means to be a product manager in this AI era. I've been building & contributing actual Production code, using different models (the big labs + open weights) and harnesses (Claude Code, Codex, Amp, pi, and trying new ones all the time). 
+- 💞️ Most of my code lives in company repos, so my contribution graph might appear sparser than it really has been. 
 - 📫 How to reach me: linkedin.com/in/bpkelley
